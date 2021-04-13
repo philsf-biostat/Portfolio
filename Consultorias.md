@@ -21,6 +21,8 @@ Este processo foi gradual, e
     - https://github.com/philsf-biostat/analise_dados_MC_2020
 1. Preparo de base de dados para estudos de Saúde Mental em Profissionais de Saúde atuando no combate a COVID19 (ELSA/FIOCRUZ, 2020)
     - https://github.com/philsf/dataclean-SMPS-covid19
+1. Parecer metodológico de Epidemiologia para Luciana Araujo (Doutorado Medicina Tropical/FIOCRUZ, 2020)
+
 
 ### 2019
 
@@ -42,7 +44,7 @@ Este processo foi gradual, e
       - https://github.com/philsf-biostat/analise_dados_JM_2018a
 1. Análise de dados para Jéssica Malheiros (Mestrado Profissional Tecnologia em Imunobiológicos/FIOCRUZ, 2018b)
     - https://github.com/philsf-biostat/analise_dados_JM_2018b
-1. Parecer metodológico de projeto de Magnus Gregory (Mestrado profissional INTO)
+1. Parecer metodológico de projeto de Magnus Gregory (Mestrado profissional INTO, 2018)
 
 
 ## Consultorias anteriores
