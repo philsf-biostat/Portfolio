@@ -38,7 +38,7 @@ Os conteúdos disponíveis representam apenas os resultados das análises de dad
 
 ### 2017
 
-1. Análise de dados Jéssica Malheiros (MPTI, 2017)
+1. Análise de dados Jéssica Malheiros (MPTI, 2017) - https://github.com/philsf-biostat/analise_dados_JM_2016
 1. Análise de dados Felipe Carrasco (Mestrado profissional INTO, 2017) - https://github.com/philsf-biostat/analise_dados_FC_2017
 1. Análise de dados para Fernando Pina (Mestrado profissional INTO, 2017) - https://github.com/philsf-biostat/analise_dados_FP_2017
 1. Análise de dados para Ana Claudia Duarte (Doutorado IOC, 2017) - https://github.com/philsf-biostat/analise_dados_ACD_2017
