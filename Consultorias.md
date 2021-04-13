@@ -24,9 +24,11 @@ Este processo foi gradual, e
 
 ### 2018
 
-1. Análise de dados de Alexandre Romano e Leandro Jardim (Residência INTO, 2018) - https://github.com/philsf-biostat/analise_dados_AL_2018/
+1. Análise de dados para Alexandre Romano e Leandro Jardim (Residência INTO, 2018) - https://github.com/philsf-biostat/analise_dados_AL_2018/
 1. Análise de Dados projeto Felipe Carrasco (Mestrado profissional INTO, 2018) - https://github.com/philsf-biostat/analise_dados_FC_2018a
 1. Parecer metodológico de projeto de Magnus Gregory (Mestrado profissional INTO)
+1. Análise de dados para Jéssica Malheiros (MPTI, 2018a) - https://github.com/philsf-biostat/analise_dados_JM_2018a
+1. Análise de dados para Jéssica Malheiros (MPTI, 2018b) - https://github.com/philsf-biostat/analise_dados_JM_2018b
 
 ## Consultorias anteriores
 
