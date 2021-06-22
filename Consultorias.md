@@ -8,6 +8,10 @@ Esta é a listagem de consultorias desde 2018, quando elas passaram a ser docume
 Este processo foi gradual, e 
 
 ### 2021
+
+1. Análise de dados para Jens Freitag (Helios Klinikum Berlin-Buch, 2021)
+    - https://github.com/philsf-biostat/analise_dados_JF_2021
+
 1. Análise de dados para Lucio Toledo (Helios Klinikum Berlin-Buch, 2021)
     - https://github.com/philsf-biostat/analise_dados_LT_2021
 
