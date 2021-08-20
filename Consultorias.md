@@ -9,46 +9,70 @@ Este processo foi gradual, e
 
 ### 2021
 
-1. Análise de dados para Jens Freitag (Helios Klinikum Berlin-Buch, 2021)
-    - https://github.com/philsf-biostat/analise_dados_JF_2021
+1. Perfil epidemiológico de pacientes aguardando na fila de revisão de ATQ em Santa Catarina
+   - https://github.com/philsf-biostat/analise_dados_FP_2021a/blob/main/report/analise_dados_FP_2021a-v01.md
+   - https://github.com/philsf-biostat/analise_dados_FP_2021a/blob/main/report/analise_dados_FP_2021a-v01.pdf?raw=true
 
-1. Análise de dados para Lucio Toledo (Helios Klinikum Berlin-Buch, 2021)
-    - https://github.com/philsf-biostat/analise_dados_LT_2021
+1. Implant failure rates in a knee prosthesis sub-population of the Helios Klinikum Berlin-Buch hospitals
+    - https://github.com/philsf-biostat/analise_dados_JF_2021/blob/main/report/analise_dados_JF_2021-v02.md
+    - https://github.com/philsf-biostat/analise_dados_JF_2021/blob/main/report/analise_dados_JF_2021-v02.pdf?raw=true
+    - https://github.com/philsf-biostat/analise_dados_JF_2021/blob/main/report/SAP_analise_dados_JF_2021-v01.pdf?raw=true
+
+1. Survival analysis of events attributed to PJI in patients that undergone TJA surgeries
+    - https://github.com/philsf-biostat/analise_dados_LT_2021/blob/master/report/analise_dados_LT_2021-v01.md
+    - https://github.com/philsf-biostat/analise_dados_LT_2021/blob/master/report/analise_dados_LT_2021-v01.pdf?raw=true
 
 ### 2020
 
 1. Análise de dados para Caroline Wanjiru (Ensaio biológico acadêmico, 2020)
     - https://github.com/philsf-biostat/analise_dados_CW_2020
-1. Análise de dados para Diego Martins (Residência INTO, 2020)
-    - https://github.com/philsf-biostat/analise_dados_DM_2020
+
+1. Análise estatística de estudo de carpectomias comparando vias de acesso dorsal e volar
+    - https://github.com/philsf-biostat/analise_dados_DM_2020/blob/master/report/analise_dados_DM_2020-v01.md
+    - https://github.com/philsf-biostat/analise_dados_DM_2020/blob/master/report/analise_dados_DM_2020-v01.pdf?raw=true
+    - https://github.com/philsf-biostat/analise_dados_DM_2020/blob/master/report/SAP_analise_dados_DM_2020-v01.pdf?raw=true
+
 1. Análise de dados para Maria Conceição (Mestrado Profissional INTO, 2020)
     - https://github.com/philsf-biostat/analise_dados_MC_2020
+
 1. Preparo de base de dados para estudos de Saúde Mental em Profissionais de Saúde atuando no combate a COVID19 (ELSA/FIOCRUZ, 2020)
     - https://github.com/philsf/dataclean-SMPS-covid19
-1. Parecer metodológico de Epidemiologia para Luciana Araujo (Doutorado Medicina Tropical/FIOCRUZ, 2020)
+<!-- 1. Parecer metodológico de Epidemiologia para Luciana Araujo (Doutorado Medicina Tropical/FIOCRUZ, 2020) -->
 
 
 ### 2019
 
 
-1. Análise de dados para Felipe Cupertino de Andrade (Mestrado Clínica Médica/UFRJ, 2019)
-    - https://github.com/philsf-biostat/analise_dados_FCA_2019
-1. Análise de dados para Victor Lima (Ensaio Clínico I'DOR, 2019a)
-    - https://github.com/philsf-biostat/analise_dados_VL_2019a
-1. Análise de dados para Victor Lima (Ensaio Clínico I'DOR, 2019b)
-    - https://github.com/philsf-biostat/analise_dados_VL_2019b
+1. Análise epidemiológica de pacientes com vitiligo com os instrumentos de Qualidade de Vida DLQI e VitiQoL
+    - https://github.com/philsf-biostat/analise_dados_FCA_2019/blob/master/report/analise_dados_FCA_2019-v01.md
+    - https://github.com/philsf-biostat/analise_dados_FCA_2019/blob/master/report/analise_dados_FCA_2019-v01.pdf?raw=true
+
+1. Eficácia do uso de Áxido tranexâmico na redução de edema em cirurgias plásticas de face: projeto piloto
+    - https://github.com/philsf-biostat/analise_dados_VL_2019a/blob/master/report/analise_dados_VL_2019a-v01.md
+    - https://github.com/philsf-biostat/analise_dados_VL_2019a/blob/master/report/analise_dados_VL_2019a-v01.pdf?raw=true
+
+1. Eficácia do Áxido tranexâmico na redução de edema em cirurgias plásticas de prótese mamária: projeto piloto
+    - https://github.com/philsf-biostat/analise_dados_VL_2019b/blob/master/report/analise_dados_VL_2019b-v01.md
+    - https://github.com/philsf-biostat/analise_dados_VL_2019b/blob/master/report/analise_dados_VL_2019b-v01.pdf?raw=true
 
 ### 2018
 
-1. Análise de dados para Alexandre Romano e Leandro Jardim (Residência INTO, 2018)
-    - https://github.com/philsf-biostat/analise_dados_AL_2018
-1. Análise de dados para Felipe Carrasco (Mestrado Profissional INTO, 2018)
-    - https://github.com/philsf-biostat/analise_dados_FC_2018a
-1. Análise de dados para Jéssica Malheiros (Mestrado Profissional Tecnologia em Imunobiológicos/FIOCRUZ, 2018a)
-      - https://github.com/philsf-biostat/analise_dados_JM_2018a
+1. Análise de dados - Residência em Ortopedia de Alexandre Romano e Leandro Jardim (2018)
+    - https://github.com/philsf-biostat/analise_dados_AL_2018/blob/master/report/analise_dados_AL_2018-v01.md
+    - https://github.com/philsf-biostat/analise_dados_AL_2018/blob/master/report/analise_dados_AL_2018-v01.docx?raw=true
+
+1. Prevalência de disfagia e disfonia no pós-operatório tardio de Artrodese Cervical Anterior
+    - https://github.com/philsf-biostat/analise_dados_FC_2018a/blob/master/report/analise_dados_FC_2018a-v01.md
+    - https://github.com/philsf-biostat/analise_dados_FC_2018a/blob/master/report/analise_dados_FC_2018a-v01.pdf?raw=true
+
+1. Analysis of vaccine potency by monoplex and biplex qPRC assay
+      - https://github.com/philsf-biostat/analise_dados_JM_2018a/blob/master/report/analise_dados_JM_2018a-v01.md
+      - https://github.com/philsf-biostat/analise_dados_JM_2018a/blob/master/report/analise_dados_JM_2018a-v01.pdf?raw=true
+
 1. Análise de dados para Jéssica Malheiros (Mestrado Profissional Tecnologia em Imunobiológicos/FIOCRUZ, 2018b)
     - https://github.com/philsf-biostat/analise_dados_JM_2018b
-1. Parecer metodológico de projeto de Magnus Gregory (Mestrado profissional INTO, 2018)
+
+<!-- 1. Parecer metodológico de projeto de Magnus Gregory (Mestrado profissional INTO, 2018) -->
 
 
 ## Consultorias anteriores
