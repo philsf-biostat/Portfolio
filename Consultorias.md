@@ -4,8 +4,9 @@ Lista atualizada de consultorias prestadas.
 
 ## Consultorias e relatórios concluídos
 
-Esta é a listagem de consultorias desde 2018, quando elas passaram a ser documentadas em relatórios técnicos.
-Este processo foi gradual, e 
+Relatórios de Análise Estatística de consultorias a partir de 2018.
+Em algumas consultorias a interpretação dos resultados foi comunicada em reunião, sem a emissão de relatório formal.
+Nesses casos, o link mostra apenas os resultados brutos (tabelas e figuras).
 
 ### 2021
 
