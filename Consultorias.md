@@ -5,8 +5,8 @@ Lista atualizada de consultorias prestadas.
 ## Consultorias e relatórios concluídos
 
 Relatórios de Análise Estatística de consultorias a partir de 2018.
-Em algumas consultorias a interpretação dos resultados foi comunicada em reunião, sem a emissão de relatório formal.
-Nesses casos, o link mostra apenas os resultados brutos (tabelas e figuras).
+<!-- Em algumas consultorias a interpretação dos resultados foi comunicada em reunião, sem a emissão de relatório formal. -->
+<!-- Nesses casos, o link mostra apenas os resultados brutos (tabelas e figuras). -->
 
 ### 2021
 
@@ -39,11 +39,8 @@ Nesses casos, o link mostra apenas os resultados brutos (tabelas e figuras).
 
 1. Preparo de base de dados para estudos de Saúde Mental em Profissionais de Saúde atuando no combate a COVID19 (ELSA/FIOCRUZ, 2020)
     - [[Visualizar Online](https://github.com/philsf/dataclean-SMPS-covid19)]
-<!-- 1. Parecer metodológico de Epidemiologia para Luciana Araujo (Doutorado Medicina Tropical/FIOCRUZ, 2020) -->
-
 
 ### 2019
-
 
 1. Análise epidemiológica de pacientes com vitiligo com os instrumentos de Qualidade de Vida DLQI e VitiQoL
     - [[Visualizar Online](https://github.com/philsf-biostat/analise_dados_FCA_2019/blob/master/report/analise_dados_FCA_2019-v01.md)]
@@ -73,9 +70,6 @@ Nesses casos, o link mostra apenas os resultados brutos (tabelas e figuras).
 
 1. Análise de dados para Jéssica Malheiros (Mestrado Profissional Tecnologia em Imunobiológicos/FIOCRUZ, 2018b)
     - [[Visualizar Online](https://github.com/philsf-biostat/analise_dados_JM_2018b)]
-
-<!-- 1. Parecer metodológico de projeto de Magnus Gregory (Mestrado profissional INTO, 2018) -->
-
 
 ## Consultorias anteriores
 
@@ -109,7 +103,7 @@ Os conteúdos disponíveis representam apenas os resultados das análises de dad
     - https://github.com/philsf-biostat/analise_dados_VC_2016
 1. Análise de dados para Virna Brandão (Mestrado Profissional INTO, 2016)
     - https://github.com/philsf-biostat/analise_dados_VB_2016
-1. Parecer metodológico para projeto de Rodrigo Buksman (Mestrado Profissional INTO, 2016)
+
 
 
 ### 2015
