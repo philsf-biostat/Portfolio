@@ -32,9 +32,9 @@ Este processo foi gradual, e
     [[PDF](https://github.com/philsf-biostat/analise_dados_DM_2020/blob/master/report/analise_dados_DM_2020-v01.pdf?raw=true)]
     [[SAP](https://github.com/philsf-biostat/analise_dados_DM_2020/blob/master/report/SAP_analise_dados_DM_2020-v01.pdf?raw=true)]
 
-1. Análise de dados para Maria Conceição (Mestrado Profissional INTO, 2020)
-    - [[Visualizar Online](https://github.com/philsf-biostat/analise_dados_MC_2020)]
-    [[Protocolo do estudo](https://docs.google.com/document/d/1zP3gHyTGvFkuKGh59t9Mqt87xMId9_UE/export?format=pdf)]
+1. Incidência de correção em tratamento conservador de Camptodacilia: coorte retrospectiva
+    - [[Protocolo do estudo](https://docs.google.com/document/d/1zP3gHyTGvFkuKGh59t9Mqt87xMId9_UE/export?format=pdf)]
+    [[Visualizar Online](https://github.com/philsf-biostat/analise_dados_MC_2020)]
 
 1. Preparo de base de dados para estudos de Saúde Mental em Profissionais de Saúde atuando no combate a COVID19 (ELSA/FIOCRUZ, 2020)
     - [[Visualizar Online](https://github.com/philsf/dataclean-SMPS-covid19)]
