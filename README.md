@@ -2,13 +2,16 @@
 
 ## Serviços
 
-Consultoria em Bioestatística, Epidemiologia e aspectos metodológicos para estudos da área da Saúde.
+Consultorias em Estatística Médica e Epidemiologia Clínica.
 
-- Delineamento de estudos
+- Delineamento de estudos, cálculo amostral e protocolo de estudo
+- Metodologias para estudos observacionais e ensaios clínicos
+- Análises multivariadas e modelagem estatística
+- Redação científica e auxílio em manuscritos
+- Produção de tabelas e figuras com qualidade *publication-ready*
 - Instrumentos de coleta de dados (CRF)
-- Preparação de base de dados (data wrangling, data cleaning)
-- Análise dos dados e interpretação dos resultados
-- Redação científica
+- Programação Estatística de Tabelas, Listagens e Figuras (TLF)
+- Desenvolvimento de software na linguagem R
 
 ## Portfólio - Relatórios técnicos e consultorias
 
@@ -16,25 +19,31 @@ Relatórios de Análise Estatística de consultorias a partir de 2018.
 <!-- Em algumas consultorias a interpretação dos resultados foi comunicada em reunião, sem a emissão de relatório formal. -->
 <!-- Nesses casos, o link mostra apenas os resultados brutos (tabelas e figuras). -->
 
+<!-- 1. title -->
+<!--     - [[Visualizar Online]()] -->
+<!--     [[PDF]()] -->
+<!--     [[Plano analítico]()] -->
+
+
 ### 2021
-
-1. Perfil epidemiológico de pacientes aguardando na fila de revisão de ATQ em Santa Catarina
-   - [[Visualizar Online](https://github.com/philsf-biostat/analise_dados_FP_2021a/blob/main/report/analise_dados_FP_2021a-v01.md)]
-   [[PDF](https://github.com/philsf-biostat/analise_dados_FP_2021a/blob/main/report/analise_dados_FP_2021a-v01.pdf?raw=true)]
-
-1. Implant failure rates in a knee prosthesis sub-population of the Helios Klinikum Berlin-Buch hospitals
-    - [[Visualizar Online](https://github.com/philsf-biostat/analise_dados_JF_2021/blob/main/report/analise_dados_JF_2021-v02.md)]
-    [[PDF](https://github.com/philsf-biostat/analise_dados_JF_2021/blob/main/report/analise_dados_JF_2021-v02.pdf?raw=true)]
-    [[SAP](https://github.com/philsf-biostat/analise_dados_JF_2021/blob/main/report/SAP_analise_dados_JF_2021-v01.pdf?raw=true)]
 
 1. Survival analysis of events attributed to PJI in patients that undergone TJA surgeries
     - [[Visualizar Online](https://github.com/philsf-biostat/analise_dados_LT_2021/blob/master/report/analise_dados_LT_2021-v01.md)]
     [[PDF](https://github.com/philsf-biostat/analise_dados_LT_2021/blob/master/report/analise_dados_LT_2021-v01.pdf?raw=true)]
 
+1. Implant failure rates in a knee prosthesis sub-population of the Helios Klinikum Berlin-Buch hospitals
+    - [[Visualizar Online](https://github.com/philsf-biostat/analise_dados_JF_2021/blob/main/report/analise_dados_JF_2021-v02.md)]
+    [[PDF](https://github.com/philsf-biostat/analise_dados_JF_2021/blob/main/report/analise_dados_JF_2021-v02.pdf?raw=true)]
+    [[Plano analítico](https://github.com/philsf-biostat/analise_dados_JF_2021/blob/main/report/SAP_analise_dados_JF_2021-v01.pdf?raw=true)]
+
+1. Perfil epidemiológico de pacientes aguardando na fila de revisão de ATQ em Santa Catarina
+   - [[Visualizar Online](https://github.com/philsf-biostat/analise_dados_FP_2021a/blob/main/report/analise_dados_FP_2021a-v01.md)]
+   [[PDF](https://github.com/philsf-biostat/analise_dados_FP_2021a/blob/main/report/analise_dados_FP_2021a-v01.pdf?raw=true)]
+
 1. Comparison of baseline characteristics of patients undergoing ACLR under the option of the LET surgical technique
     - [[Visualizar Online](https://github.com/philsf-biostat/SAR-2021-004-TV/blob/main/report/SAR-2021-004-TV-v01.md)]
     [[PDF](https://github.com/philsf-biostat/SAR-2021-004-TV/blob/main/report/SAR-2021-004-TV-v01.pdf?raw=true)]
-    [[SAP](https://github.com/philsf-biostat/SAR-2021-004-TV/blob/main/report/SAP-2021-004-TV-v01.pdf?raw=true)]
+    [[Plano analítico](https://github.com/philsf-biostat/SAR-2021-004-TV/blob/main/report/SAP-2021-004-TV-v01.pdf?raw=true)]
 
 
 ### 2020
@@ -52,7 +61,7 @@ Relatórios de Análise Estatística de consultorias a partir de 2018.
 1. Análise estatística de estudo de carpectomias comparando vias de acesso dorsal e volar
     - [[Visualizar Online](https://github.com/philsf-biostat/analise_dados_DM_2020/blob/master/report/analise_dados_DM_2020-v01.md)]
     [[PDF](https://github.com/philsf-biostat/analise_dados_DM_2020/blob/master/report/analise_dados_DM_2020-v01.pdf?raw=true)]
-    [[SAP](https://github.com/philsf-biostat/analise_dados_DM_2020/blob/master/report/SAP_analise_dados_DM_2020-v01.pdf?raw=true)]
+    [[Plano analítico](https://github.com/philsf-biostat/analise_dados_DM_2020/blob/master/report/SAP_analise_dados_DM_2020-v01.pdf?raw=true)]
 
 ### 2019
 
