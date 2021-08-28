@@ -2,13 +2,17 @@
 
 ## Serviços
 
-Consultoria em Bioestatística, Epidemiologia e aspectos metodológicos para estudos da área da Saúde.
+Consultorias em Estatística Médica e Epidemiologia Clínica.
 
-- Delineamento de estudos
+- Delineamento de estudos, cálculo amostral e protocolo de estudo
+- Metodologias para estudos observacionais e ensaios clínicos
+- Análises multivariadas e modelagem estatística
+- Redação científica e auxílio em manuscritos
+- Produção de tabelas e figuras com qualidade *publication-ready*
 - Instrumentos de coleta de dados (CRF)
-- Preparação de base de dados (data wrangling, data cleaning)
+- Programação Estatística de Tabelas, Listagens e Figuras (TLF)
 - Análise dos dados e interpretação dos resultados
-- Redação científica
+- Desenvolvimento de software na linguagem R
 
 ## Portfólio - Relatórios técnicos e consultorias
 
