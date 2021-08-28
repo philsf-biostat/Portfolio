@@ -11,7 +11,6 @@ Consultorias em Estatística Médica e Epidemiologia Clínica.
 - Produção de tabelas e figuras com qualidade *publication-ready*
 - Instrumentos de coleta de dados (CRF)
 - Programação Estatística de Tabelas, Listagens e Figuras (TLF)
-- Análise dos dados e interpretação dos resultados
 - Desenvolvimento de software na linguagem R
 
 ## Portfólio - Relatórios técnicos e consultorias
