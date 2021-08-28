@@ -31,6 +31,12 @@ Relatórios de Análise Estatística de consultorias a partir de 2018.
     - [[Visualizar Online](https://github.com/philsf-biostat/analise_dados_LT_2021/blob/master/report/analise_dados_LT_2021-v01.md)]
     [[PDF](https://github.com/philsf-biostat/analise_dados_LT_2021/blob/master/report/analise_dados_LT_2021-v01.pdf?raw=true)]
 
+1. Comparison of baseline characteristics of patients undergoing ACLR under the option of the LET surgical technique
+    - [[Visualizar Online](https://github.com/philsf-biostat/SAR-2021-004-TV/blob/main/report/SAR-2021-004-TV-v01.md)]
+    [[PDF](https://github.com/philsf-biostat/SAR-2021-004-TV/blob/main/report/SAR-2021-004-TV-v01.pdf?raw=true)]
+    [[SAP](https://github.com/philsf-biostat/SAR-2021-004-TV/blob/main/report/SAP-2021-004-TV-v01.pdf?raw=true)]
+
+
 ### 2020
 
 1. Incidência de correção em tratamento conservador de Camptodacilia: coorte retrospectiva
