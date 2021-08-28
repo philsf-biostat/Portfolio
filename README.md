@@ -24,18 +24,18 @@ Relatórios de Análise Estatística de consultorias a partir de 2018.
 
 ### 2021
 
-1. Perfil epidemiológico de pacientes aguardando na fila de revisão de ATQ em Santa Catarina
-   - [[Visualizar Online](https://github.com/philsf-biostat/analise_dados_FP_2021a/blob/main/report/analise_dados_FP_2021a-v01.md)]
-   [[PDF](https://github.com/philsf-biostat/analise_dados_FP_2021a/blob/main/report/analise_dados_FP_2021a-v01.pdf?raw=true)]
+1. Survival analysis of events attributed to PJI in patients that undergone TJA surgeries
+    - [[Visualizar Online](https://github.com/philsf-biostat/analise_dados_LT_2021/blob/master/report/analise_dados_LT_2021-v01.md)]
+    [[PDF](https://github.com/philsf-biostat/analise_dados_LT_2021/blob/master/report/analise_dados_LT_2021-v01.pdf?raw=true)]
 
 1. Implant failure rates in a knee prosthesis sub-population of the Helios Klinikum Berlin-Buch hospitals
     - [[Visualizar Online](https://github.com/philsf-biostat/analise_dados_JF_2021/blob/main/report/analise_dados_JF_2021-v02.md)]
     [[PDF](https://github.com/philsf-biostat/analise_dados_JF_2021/blob/main/report/analise_dados_JF_2021-v02.pdf?raw=true)]
     [[Plano analítico](https://github.com/philsf-biostat/analise_dados_JF_2021/blob/main/report/SAP_analise_dados_JF_2021-v01.pdf?raw=true)]
 
-1. Survival analysis of events attributed to PJI in patients that undergone TJA surgeries
-    - [[Visualizar Online](https://github.com/philsf-biostat/analise_dados_LT_2021/blob/master/report/analise_dados_LT_2021-v01.md)]
-    [[PDF](https://github.com/philsf-biostat/analise_dados_LT_2021/blob/master/report/analise_dados_LT_2021-v01.pdf?raw=true)]
+1. Perfil epidemiológico de pacientes aguardando na fila de revisão de ATQ em Santa Catarina
+   - [[Visualizar Online](https://github.com/philsf-biostat/analise_dados_FP_2021a/blob/main/report/analise_dados_FP_2021a-v01.md)]
+   [[PDF](https://github.com/philsf-biostat/analise_dados_FP_2021a/blob/main/report/analise_dados_FP_2021a-v01.pdf?raw=true)]
 
 1. Comparison of baseline characteristics of patients undergoing ACLR under the option of the LET surgical technique
     - [[Visualizar Online](https://github.com/philsf-biostat/SAR-2021-004-TV/blob/main/report/SAR-2021-004-TV-v01.md)]
