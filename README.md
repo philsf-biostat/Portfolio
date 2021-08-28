@@ -16,6 +16,12 @@ Relatórios de Análise Estatística de consultorias a partir de 2018.
 <!-- Em algumas consultorias a interpretação dos resultados foi comunicada em reunião, sem a emissão de relatório formal. -->
 <!-- Nesses casos, o link mostra apenas os resultados brutos (tabelas e figuras). -->
 
+<!-- 1. title -->
+<!--     - [[Visualizar Online]()] -->
+<!--     [[PDF]()] -->
+<!--     [[SAP]()] -->
+
+
 ### 2021
 
 1. Perfil epidemiológico de pacientes aguardando na fila de revisão de ATQ em Santa Catarina
