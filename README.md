@@ -69,6 +69,10 @@ Relatórios de Análise Estatística de consultorias a partir de 2018.
     - [[Visualizar Online](https://github.com/philsf-biostat/SAR-2019-002-FC/blob/master/report/SAR-2019-002-FC-v01.md)]
     [[PDF](https://github.com/philsf-biostat/SAR-2019-002-FC/blob/master/report/SAR-2019-002-FC-v01.pdf?raw=true)]
 
+1. Análise epidemiológica de pacientes com pubalgia atlética no Brasil
+    - [[Visualizar Online](https://github.com/philsf-biostat/SAR-2019-001-RG/blob/master/report/analise_dados_RG_2019-v01.md)]
+    [[PDF](https://github.com/philsf-biostat/SAR-2019-001-RG/blob/master/report/analise_dados_RG_2019-v01.pdf?raw=true)]
+
 1. Eficácia do Ácido tranexâmico na redução de edema em cirurgias plásticas de face: projeto piloto
     - [[Visualizar Online](https://github.com/philsf-biostat/analise_dados_VL_2019a/blob/master/report/analise_dados_VL_2019a-v01.md)]
     [[PDF](https://github.com/philsf-biostat/analise_dados_VL_2019a/blob/master/report/analise_dados_VL_2019a-v01.pdf?raw=true)]
@@ -81,7 +85,7 @@ Relatórios de Análise Estatística de consultorias a partir de 2018.
 
 1. Análise de dados - Residência em Ortopedia de Alexandre Romano e Leandro Jardim (2018)
     - [[Visualizar Online](https://github.com/philsf-biostat/analise_dados_AL_2018/blob/master/report/analise_dados_AL_2018-v01.md)]
-    [[PDF](https://github.com/philsf-biostat/analise_dados_AL_2018/blob/master/report/analise_dados_AL_2018-v01.docx?raw=true)]
+    [[PDF](https://github.com/philsf-biostat/analise_dados_AL_2018/blob/master/report/analise_dados_AL_2018-v01.pdf?raw=true)]
 
 1. Prevalência de disfagia e disfonia no pós-operatório tardio de Artrodese Cervical Anterior
     - [[Visualizar Online](https://github.com/philsf-biostat/analise_dados_FC_2018a/blob/master/report/analise_dados_FC_2018a-v01.md)]
@@ -93,6 +97,10 @@ Relatórios de Análise Estatística de consultorias a partir de 2018.
 
 1. Análise de dados para Jéssica Malheiros (Mestrado Profissional Tecnologia em Imunobiológicos/FIOCRUZ, 2018b)
     - [[Visualizar Online](https://github.com/philsf-biostat/analise_dados_JM_2018b)]
+
+1. Análise exploratória de dados de pacientes com pubalgia atlética no Brasil
+      - [[Visualizar Online](https://github.com/philsf-biostat/SAR-2018-003-RG/blob/master/report/analise_dados_RG_2018-v01.md)]
+      [[PDF](https://github.com/philsf-biostat/SAR-2018-003-RG/blob/master/report/analise_dados_RG_2018-v01.pdf?raw=true)]
 
 ## Consultorias anteriores
 
