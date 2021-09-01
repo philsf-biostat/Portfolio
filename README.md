@@ -59,21 +59,21 @@ Relatórios de Análise Estatística de consultorias a partir de 2018.
     - [[Visualizar Online](https://github.com/philsf/dataclean-SMPS-covid19)]
 
 1. Análise estatística de estudo de carpectomias comparando vias de acesso dorsal e volar
-    - [[Visualizar Online](https://github.com/philsf-biostat/analise_dados_DM_2020/blob/master/report/analise_dados_DM_2020-v01.md)]
-    [[PDF](https://github.com/philsf-biostat/analise_dados_DM_2020/blob/master/report/analise_dados_DM_2020-v01.pdf?raw=true)]
-    [[Plano analítico](https://github.com/philsf-biostat/analise_dados_DM_2020/blob/master/report/SAP_analise_dados_DM_2020-v01.pdf?raw=true)]
+    - [[Visualizar Online](https://github.com/philsf-biostat/SAR-2020-001-DM/blob/master/report/SAR-2020-001-DM-v01.md)]
+    [[PDF](https://github.com/philsf-biostat/SAR-2020-001-DM/blob/master/report/SAR-2020-001-DM-v01.pdf?raw=true)]
+    [[Plano analítico](https://github.com/philsf-biostat/SAR-2020-001-DM/blob/master/report/SAP-2020-001-DM-v01.pdf?raw=true)]
 
 ### 2019
 
 1. Análise epidemiológica de pacientes com vitiligo com os instrumentos de Qualidade de Vida DLQI e VitiQoL
-    - [[Visualizar Online](https://github.com/philsf-biostat/analise_dados_FCA_2019/blob/master/report/analise_dados_FCA_2019-v01.md)]
-    [[PDF](https://github.com/philsf-biostat/analise_dados_FCA_2019/blob/master/report/analise_dados_FCA_2019-v01.pdf?raw=true)]
+    - [[Visualizar Online](https://github.com/philsf-biostat/SAR-2019-002-FC/blob/master/report/SAR-2019-002-FC-v01.md)]
+    [[PDF](https://github.com/philsf-biostat/SAR-2019-002-FC/blob/master/report/SAR-2019-002-FC-v01.pdf?raw=true)]
 
-1. Eficácia do uso de Áxido tranexâmico na redução de edema em cirurgias plásticas de face: projeto piloto
+1. Eficácia do Ácido tranexâmico na redução de edema em cirurgias plásticas de face: projeto piloto
     - [[Visualizar Online](https://github.com/philsf-biostat/analise_dados_VL_2019a/blob/master/report/analise_dados_VL_2019a-v01.md)]
     [[PDF](https://github.com/philsf-biostat/analise_dados_VL_2019a/blob/master/report/analise_dados_VL_2019a-v01.pdf?raw=true)]
 
-1. Eficácia do Áxido tranexâmico na redução de edema em cirurgias plásticas de prótese mamária: projeto piloto
+1. Eficácia do Ácido tranexâmico na redução de edema em cirurgias plásticas de prótese mamária: projeto piloto
     - [[Visualizar Online](https://github.com/philsf-biostat/analise_dados_VL_2019b/blob/master/report/analise_dados_VL_2019b-v01.md)]
     [[PDF](https://github.com/philsf-biostat/analise_dados_VL_2019b/blob/master/report/analise_dados_VL_2019b-v01.pdf?raw=true)]
 
