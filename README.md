@@ -50,13 +50,13 @@ Relatórios de Análise Estatística de consultorias a partir de 2018.
 
 1. Incidência de correção em tratamento conservador de Camptodacilia: coorte retrospectiva
     - [[Protocolo do estudo](https://docs.google.com/document/d/1zP3gHyTGvFkuKGh59t9Mqt87xMId9_UE/export?format=pdf)]
-    [[Visualizar Online](https://github.com/philsf-biostat/analise_dados_MC_2020)]
+    [[Código](https://github.com/philsf-biostat/analise_dados_MC_2020)]
 
 1. Análise de dados para Caroline Wanjiru (Ensaio biológico acadêmico, 2020)
     - [[Visualizar Online](https://github.com/philsf-biostat/analise_dados_CW_2020)]
 
 1. Preparo de base de dados para estudos de Saúde Mental em Profissionais de Saúde atuando no combate a COVID19 (ELSA/FIOCRUZ, 2020)
-    - [[Visualizar Online](https://github.com/philsf/dataclean-SMPS-covid19)]
+    - [[Código](https://github.com/philsf/dataclean-SMPS-covid19)]
 
 1. Análise estatística de estudo de carpectomias comparando vias de acesso dorsal e volar
     - [[Visualizar Online](https://github.com/philsf-biostat/SAR-2020-001-DM/blob/master/report/SAR-2020-001-DM-v01.md)]
