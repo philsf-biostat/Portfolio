@@ -83,9 +83,9 @@ Relatórios de Análise Estatística de consultorias a partir de 2018.
 
 ### 2018
 
-1. Análise de dados - Residência em Ortopedia de Alexandre Romano e Leandro Jardim (2018)
-    - [[Visualizar Online](https://github.com/philsf-biostat/analise_dados_AL_2018/blob/master/report/analise_dados_AL_2018-v01.md)]
-    [[PDF](https://github.com/philsf-biostat/analise_dados_AL_2018/blob/master/report/analise_dados_AL_2018-v01.pdf?raw=true)]
+1. Avaliação do diagnóstico por RM comparada à artroscopia em lesões de menisco
+    - [[Visualizar Online](https://github.com/philsf-biostat/SAR-2018-001-AL/blob/master/report/SAR-2018-001-AL-v01.md)]
+    [[PDF](https://github.com/philsf-biostat/SAR-2018-001-AL/blob/master/report/SAR-2018-001-AL-v01.pdf?raw=true)]
 
 1. Prevalência de disfagia e disfonia no pós-operatório tardio de Artrodese Cervical Anterior
     - [[Visualizar Online](https://github.com/philsf-biostat/analise_dados_FC_2018a/blob/master/report/analise_dados_FC_2018a-v01.md)]
