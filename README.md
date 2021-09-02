@@ -41,9 +41,9 @@ Relatórios de Análise Estatística de consultorias a partir de 2018.
    [[PDF](https://github.com/philsf-biostat/analise_dados_FP_2021a/blob/main/report/analise_dados_FP_2021a-v01.pdf?raw=true)]
 
 1. Comparison of baseline characteristics of patients undergoing ACLR under the option of the LET surgical technique
-    - [[Visualizar Online](https://github.com/philsf-biostat/SAR-2021-004-TV/blob/main/report/SAR-2021-004-TV-v01.md)]
-    [[PDF](https://github.com/philsf-biostat/SAR-2021-004-TV/blob/main/report/SAR-2021-004-TV-v01.pdf?raw=true)]
-    [[Plano analítico](https://github.com/philsf-biostat/SAR-2021-004-TV/blob/main/report/SAP-2021-004-TV-v01.pdf?raw=true)]
+    - [[Visualizar Online](https://github.com/philsf-biostat/SAR-2021-004-TV/blob/main/report/SAR-2021-004-TV-v02.md)]
+    [[PDF](https://github.com/philsf-biostat/SAR-2021-004-TV/blob/main/report/SAR-2021-004-TV-v02.pdf?raw=true)]
+    [[Plano analítico](https://github.com/philsf-biostat/SAR-2021-004-TV/blob/main/report/SAP-2021-004-TV-v02.pdf?raw=true)]
 
 
 ### 2020
