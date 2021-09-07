@@ -67,7 +67,7 @@ Relatórios de Análise Estatística de consultorias a partir de 2018.
 
 1. Análise epidemiológica de pacientes com vitiligo com os instrumentos de Qualidade de Vida DLQI e VitiQoL
     - [[Visualizar Online](https://github.com/philsf-biostat/SAR-2019-002-FC/blob/master/report/SAR-2019-002-FC-v01.md)]
-    [[PDF](https://github.com/philsf-biostat/SAR-2019-002-FC/blob/master/report/SAR-2019-002-FC-v01.pdf)]
+    [[PDF](https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-2019-002-FC/raw/master/report/SAR-2019-002-FC-v01.pdf)]
 
 1. Análise epidemiológica de pacientes com pubalgia atlética no Brasil
     - [[Visualizar Online](https://github.com/philsf-biostat/SAR-2019-001-RG/blob/master/report/analise_dados_RG_2019-v01.md)]
