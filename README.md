@@ -98,7 +98,7 @@ Relatórios de Análise Estatística de consultorias a partir de 2018.
       [[PDF][SAR-2018-005-PDF]]
 
 1. Análise de dados para Jéssica Malheiros (Mestrado Profissional Tecnologia em Imunobiológicos/FIOCRUZ, 2018b)
-    - [[Visualizar Online][SAR-2018-006-repo]]
+    - [[Código][SAR-2018-006-repo]]
 
 1. Análise exploratória de dados de pacientes com pubalgia atlética no Brasil
       - [[Visualizar Online][SAR-2018-003-MD]]
