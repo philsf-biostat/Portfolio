@@ -110,10 +110,10 @@ Relatórios de Análise Estatística de consultorias a partir de 2018.
 
 <!-- --- -->
 
-[SAR-2021-001-viz]: https://github.com/philsf-biostat/analise_dados_LT_2021/blob/master/report/analise_dados_LT_2021-v01.md
-[SAR-2021-002-viz]: https://github.com/philsf-biostat/analise_dados_JF_2021/blob/main/report/analise_dados_JF_2021-v02.md
+[SAR-2021-001-md]: https://github.com/philsf-biostat/analise_dados_LT_2021/blob/master/report/analise_dados_LT_2021-v01.md
 [SAR-2021-001-pdf]: https://github.com/philsf-biostat/analise_dados_LT_2021/raw/master/report/analise_dados_LT_2021-v01.pdf
 
+[SAR-2021-002-md]: https://github.com/philsf-biostat/analise_dados_JF_2021/blob/main/report/analise_dados_JF_2021-v02.md
 [SAR-2021-002-pdf]: https://github.com/philsf-biostat/analise_dados_JF_2021/raw/main/report/analise_dados_JF_2021-v02.pdf
 [SAR-2021-002-sap]: https://github.com/philsf-biostat/analise_dados_JF_2021/raw/main/report/SAP_analise_dados_JF_2021-v01.pdf
 
