@@ -111,22 +111,22 @@ Relatórios de Análise Estatística de consultorias a partir de 2018.
 <!-- --- -->
 
 [SAR-2021-001-md]: https://github.com/philsf-biostat/analise_dados_LT_2021/blob/master/report/analise_dados_LT_2021-v01.md
-[SAR-2021-001-pdf]: https://github.com/philsf-biostat/analise_dados_LT_2021/raw/master/report/analise_dados_LT_2021-v01.pdf
+[SAR-2021-001-pdf]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/analise_dados_LT_2021/raw/master/report/analise_dados_LT_2021-v01.pdf
 
 [SAR-2021-002-md]: https://github.com/philsf-biostat/analise_dados_JF_2021/blob/main/report/analise_dados_JF_2021-v02.md
-[SAR-2021-002-pdf]: https://github.com/philsf-biostat/analise_dados_JF_2021/raw/main/report/analise_dados_JF_2021-v02.pdf
-[SAR-2021-002-sap]: https://github.com/philsf-biostat/analise_dados_JF_2021/raw/main/report/SAP_analise_dados_JF_2021-v01.pdf
+[SAR-2021-002-pdf]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/analise_dados_JF_2021/raw/main/report/analise_dados_JF_2021-v02.pdf
+[SAR-2021-002-sap]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/analise_dados_JF_2021/raw/main/report/SAP_analise_dados_JF_2021-v01.pdf
 
 [sar-2021-003-md]: https://github.com/philsf-biostat/analise_dados_FP_2021a/blob/main/report/analise_dados_FP_2021a-v01.md
-[sar-2021-003-pdf]: https://github.com/philsf-biostat/analise_dados_FP_2021a/raw/main/report/analise_dados_FP_2021a-v01.pdf
+[sar-2021-003-pdf]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/analise_dados_FP_2021a/raw/main/report/analise_dados_FP_2021a-v01.pdf
 
 [sar-2021-004-md]: https://github.com/philsf-biostat/SAR-2021-004-TV/blob/main/report/SAR-2021-004-TV-v02.md
-[sar-2021-004-pdf]: https://github.com/philsf-biostat/SAR-2021-004-TV/raw/main/report/SAR-2021-004-TV-v02.pdf
-[sar-2021-004-sap]: https://github.com/philsf-biostat/SAR-2021-004-TV/raw/main/report/SAP-2021-004-TV-v02.pdf
+[sar-2021-004-pdf]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-2021-004-TV/raw/main/report/SAR-2021-004-TV-v02.pdf
+[sar-2021-004-sap]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-2021-004-TV/raw/main/report/SAP-2021-004-TV-v02.pdf
 
 [sar-2020-001-md]: https://github.com/philsf-biostat/SAR-2020-001-DM/blob/master/report/SAR-2020-001-DM-v01.md
-[sar-2020-001-pdf]: https://github.com/philsf-biostat/SAR-2020-001-DM/raw/master/report/SAR-2020-001-DM-v01.pdf
-[sar-2020-001-sap]: https://github.com/philsf-biostat/SAR-2020-001-DM/raw/master/report/SAP-2020-001-DM-v01.pdf
+[sar-2020-001-pdf]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-2020-001-DM/raw/master/report/SAR-2020-001-DM-v01.pdf
+[sar-2020-001-sap]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-2020-001-DM/raw/master/report/SAP-2020-001-DM-v01.pdf
 
 [dataclean-smps-covid19]: https://github.com/philsf/dataclean-SMPS-covid19
 
@@ -136,29 +136,29 @@ Relatórios de Análise Estatística de consultorias a partir de 2018.
 [sar-2020-004-repo]: https://github.com/philsf-biostat/analise_dados_MC_2020
 
 [sar-2019-001-md]: https://github.com/philsf-biostat/SAR-2019-001-RG/blob/master/report/analise_dados_RG_2019-v01.md
-[sar-2019-001-pdf]: https://github.com/philsf-biostat/SAR-2019-001-RG/raw/master/report/analise_dados_RG_2019-v01.pdf
+[sar-2019-001-pdf]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-2019-001-RG/raw/master/report/analise_dados_RG_2019-v01.pdf
 
 [sar-2019-002-md]: https://github.com/philsf-biostat/SAR-2019-002-FC/blob/master/report/SAR-2019-002-FC-v01.md
 [sar-2019-002-pdf]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-2019-002-FC/raw/master/report/SAR-2019-002-FC-v01.pdf
 
 [sar-2019-003-md]: https://github.com/philsf-biostat/analise_dados_VL_2019a/blob/master/report/analise_dados_VL_2019a-v01.md
-[sar-2019-003-pdf]: https://github.com/philsf-biostat/analise_dados_VL_2019a/raw/master/report/analise_dados_VL_2019a-v01.pdf
+[sar-2019-003-pdf]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/analise_dados_VL_2019a/raw/master/report/analise_dados_VL_2019a-v01.pdf
 
 [sar-2019-004-md]: https://github.com/philsf-biostat/analise_dados_VL_2019b/blob/master/report/analise_dados_VL_2019b-v01.md
-[sar-2019-004-pdf]: https://github.com/philsf-biostat/analise_dados_VL_2019b/raw/master/report/analise_dados_VL_2019b-v01.pdf
+[sar-2019-004-pdf]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/analise_dados_VL_2019b/raw/master/report/analise_dados_VL_2019b-v01.pdf
 
 [sar-2018-001-md]: https://github.com/philsf-biostat/SAR-2018-001-AL/blob/master/report/SAR-2018-001-AL-v01.md
-[sar-2018-001-pdf]: https://github.com/philsf-biostat/SAR-2018-001-AL/raw/master/report/SAR-2018-001-AL-v01.pdf
+[sar-2018-001-pdf]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-2018-001-AL/raw/master/report/SAR-2018-001-AL-v01.pdf
 
 [sar-2018-002-repo]: https://github.com/philsf-biostat/SAR-2018-002-RC
 
 [sar-2018-003-md]: https://github.com/philsf-biostat/SAR-2018-003-RG/blob/master/report/analise_dados_RG_2018-v01.md
-[sar-2018-003-pdf]: https://github.com/philsf-biostat/SAR-2018-003-RG/raw/master/report/analise_dados_RG_2018-v01.pdf
+[sar-2018-003-pdf]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-2018-003-RG/raw/master/report/analise_dados_RG_2018-v01.pdf
 
 [sar-2018-004-md]: https://github.com/philsf-biostat/analise_dados_FC_2018a/blob/master/report/analise_dados_FC_2018a-v01.md
-[sar-2018-004-pdf]: https://github.com/philsf-biostat/analise_dados_FC_2018a/raw/master/report/analise_dados_FC_2018a-v01.pdf
+[sar-2018-004-pdf]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/analise_dados_FC_2018a/raw/master/report/analise_dados_FC_2018a-v01.pdf
 
 [sar-2018-005-md]: https://github.com/philsf-biostat/analise_dados_JM_2018a/blob/master/report/analise_dados_JM_2018a-v01.md
-[sar-2018-005-pdf]: https://github.com/philsf-biostat/analise_dados_JM_2018a/raw/master/report/analise_dados_JM_2018a-v01.pdf
+[sar-2018-005-pdf]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/analise_dados_JM_2018a/raw/master/report/analise_dados_JM_2018a-v01.pdf
 
 [sar-2018-006-repo]: https://github.com/philsf-biostat/analise_dados_JM_2018b
