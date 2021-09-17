@@ -114,8 +114,8 @@ Relatórios de Análise Estatística de consultorias a partir de 2018.
 [SAR-2021-001-pdf]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/analise_dados_LT_2021/raw/master/report/analise_dados_LT_2021-v01.pdf
 
 [SAR-2021-002-md]: https://github.com/philsf-biostat/analise_dados_JF_2021/blob/main/report/analise_dados_JF_2021-v02.md
-[SAR-2021-002-pdf]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/analise_dados_JF_2021/raw/main/report/analise_dados_JF_2021-v02.pdf
-[SAR-2021-002-sap]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/analise_dados_JF_2021/raw/main/report/SAP_analise_dados_JF_2021-v01.pdf
+[SAR-2021-002-pdf]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-2021-002-JF/raw/main/report/SAR-2021-002-JF-v02.pdf
+[SAR-2021-002-sap]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-2021-002-JF/raw/main/report/SAP-2021-002-JF-v01.pdf
 
 [sar-2021-003-md]: https://github.com/philsf-biostat/SAR-2021-003-FP/blob/main/report/SAR-2021-003-FP-v01.md
 [sar-2021-003-pdf]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-2021-003-FP/raw/main/report/SAR-2021-003-FP-v01.pdf
