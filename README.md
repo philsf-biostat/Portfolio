@@ -28,21 +28,17 @@ Relatórios de Análise Estatística de consultorias a partir de 2018.
 ### 2021
 
 1. Survival analysis of events attributed to PJI in patients that undergone TJA surgeries
-    - [[Visualizar Online][SAR-2021-001-md]]
-    [[PDF][SAR-2021-001-pdf]]
+    - [[PDF][SAR-2021-001-pdf]]
 
 1. Implant failure rates in a knee prosthesis sub-population of the Helios Klinikum Berlin-Buch hospitals
-    - [[Visualizar Online][SAR-2021-002-md]]
-    [[PDF][SAR-2021-002-pdf]]
+    - [[PDF][SAR-2021-002-pdf]]
 	[[Plano analítico][SAR-2021-002-sap]]
 
 1. Perfil epidemiológico de pacientes aguardando na fila de revisão de ATQ em Santa Catarina
-   - [[Visualizar Online][SAR-2021-003-md]]
-   [[PDF][SAR-2021-003-pdf]]
+   - [[PDF][SAR-2021-003-pdf]]
 
 1. Comparison of baseline characteristics of patients undergoing ACLR under the option of the LET surgical technique
-    - [[Visualizar Online][SAR-2021-004-md]]
-    [[PDF][SAR-2021-004-pdf]]
+    - [[PDF][SAR-2021-004-pdf]]
     [[Plano analítico][SAR-2021-004-sap]]
 
 
@@ -59,50 +55,41 @@ Relatórios de Análise Estatística de consultorias a partir de 2018.
     - [[Código][dataclean-SMPS-covid19]]
 
 1. Análise estatística de estudo de carpectomias comparando vias de acesso dorsal e volar
-    - [[Visualizar Online][SAR-2020-001-md]]
-    [[PDF][SAR-2020-001-PDF]]
+    - [[PDF][SAR-2020-001-PDF]]
     [[Plano analítico][SAR-2020-001-SAP]]
 
 
 ### 2019
 
 1. Análise epidemiológica de pacientes com vitiligo com os instrumentos de Qualidade de Vida DLQI e VitiQoL
-    - [[Visualizar Online][SAR-2019-002-md]]
-    [[PDF][SAR-2019-002-pdf]]
+    - [[PDF][SAR-2019-002-pdf]]
 
 1. Análise epidemiológica de pacientes com pubalgia atlética no Brasil
-    - [[Visualizar Online][SAR-2019-001-md]]
-    [[PDF][SAR-2019-001-pdf]]
+    - [[PDF][SAR-2019-001-pdf]]
 
 1. Eficácia do Ácido tranexâmico na redução de edema em cirurgias plásticas de face: projeto piloto
-    - [[Visualizar Online][SAR-2019-003-md]]
-    [[PDF][SAR-2019-003-pdf]]
+    - [[PDF][SAR-2019-003-pdf]]
 
 1. Eficácia do Ácido tranexâmico na redução de edema em cirurgias plásticas de prótese mamária: projeto piloto
-    - [[Visualizar Online][SAR-2019-004-md]]
-    [[PDF][SAR-2019-004-pdf]]
+    - [[PDF][SAR-2019-004-pdf]]
 
 
 ### 2018
 
 1. Avaliação do diagnóstico por RM comparada à artroscopia em lesões de menisco
-    - [[Visualizar Online][SAR-2018-001-md]]
-    [[PDF][SAR-2018-001-PDF]]
+    - [[PDF][SAR-2018-001-PDF]]
 
 1. Prevalência de disfagia e disfonia no pós-operatório tardio de Artrodese Cervical Anterior
-    - [[Visualizar Online][SAR-2018-004-MD]]
-    [[PDF][SAR-2018-004-PDF]]
+    - [[PDF][SAR-2018-004-PDF]]
 
 1. Analysis of vaccine potency by monoplex and biplex qPRC assay
-      - [[Visualizar Online][SAR-2018-005-MD]]
-      [[PDF][SAR-2018-005-PDF]]
+      - [[PDF][SAR-2018-005-PDF]]
 
 1. Análise de dados para Jéssica Malheiros (Mestrado Profissional Tecnologia em Imunobiológicos/FIOCRUZ, 2018b)
     - [[Código][SAR-2018-006-repo]]
 
 1. Análise exploratória de dados de pacientes com pubalgia atlética no Brasil
-      - [[Visualizar Online][SAR-2018-003-MD]]
-      [[PDF][SAR-2018-003-PDF]]
+      - [[PDF][SAR-2018-003-PDF]]
 
 ## Consultorias anteriores
 
