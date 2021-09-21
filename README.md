@@ -123,7 +123,7 @@ Relatórios de Análise Estatística de consultorias a partir de 2018.
 [sar-2020-004-repo]: https://github.com/philsf-biostat/analise_dados_MC_2020
 
 [sar-2019-001-md]: https://github.com/philsf-biostat/SAR-2019-001-RG/blob/master/report/analise_dados_RG_2019-v01.md
-[sar-2019-001-pdf]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-2019-001-RG/raw/master/report/analise_dados_RG_2019-v01.pdf
+[sar-2019-001-pdf]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-2019-001-RG/raw/master/report/SAR-2019-001-RG-v01.pdf
 
 [sar-2019-002-md]: https://github.com/philsf-biostat/SAR-2019-002-FC/blob/master/report/SAR-2019-002-FC-v01.md
 [sar-2019-002-pdf]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-2019-002-FC/raw/master/report/SAR-2019-002-FC-v01.pdf
@@ -140,7 +140,7 @@ Relatórios de Análise Estatística de consultorias a partir de 2018.
 [sar-2018-002-repo]: https://github.com/philsf-biostat/SAR-2018-002-RC
 
 [sar-2018-003-md]: https://github.com/philsf-biostat/SAR-2018-003-RG/blob/master/report/analise_dados_RG_2018-v01.md
-[sar-2018-003-pdf]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-2018-003-RG/raw/master/report/analise_dados_RG_2018-v01.pdf
+[sar-2018-003-pdf]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-2018-003-RG/raw/master/report/SAR-2018-003-RG-v01.pdf
 
 [sar-2018-004-md]: https://github.com/philsf-biostat/analise_dados_FC_2018a/blob/master/report/analise_dados_FC_2018a-v01.md
 [sar-2018-004-pdf]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/analise_dados_FC_2018a/raw/master/report/analise_dados_FC_2018a-v01.pdf
