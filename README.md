@@ -141,6 +141,30 @@ Relatórios de Análise Estatística de consultorias a partir de 2018.
 [sar-2021-004-pdf]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-2021-004-TV/raw/main/report/SAR-2021-004-TV-v02.pdf
 [sar-2021-004-sap]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-2021-004-TV/raw/main/report/SAP-2021-004-TV-v02.pdf
 
+[sar-2021-006-pdf]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-2021-006-MC/raw/main/report/SAR-2021-006-MC-v01.pdf
+[sar-2021-006-sap]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-2021-006-MC/raw/main/report/SAP-2021-006-MC-v01.pdf
+
+[sar-2021-007-pdf]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-2021-007-JB/raw/main/report/SAR-2021-007-JB-v01.pdf
+[sar-2021-007-sap]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-2021-007-JB/raw/main/report/SAP-2021-007-JB-v01.pdf
+
+[sar-2021-008-pdf]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-2021-008-JB/raw/main/report/SAR-2021-008-JB-v01.pdf
+[sar-2021-008-sap]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-2021-008-JB/raw/main/report/SAP-2021-008-JB-v01.pdf
+
+[sar-2021-009-pdf]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-2021-009-JB/raw/main/report/SAR-2021-009-JB-v01.pdf
+[sar-2021-009-sap]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-2021-009-JB/raw/main/report/SAP-2021-009-JB-v01.pdf
+
+[sar-2021-010-pdf]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-2021-010-JB/raw/main/report/SAR-2021-010-JB-v01.pdf
+[sar-2021-010-sap]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-2021-010-JB/raw/main/report/SAP-2021-010-JB-v01-v01.pdf
+
+[sar-2021-011-pdf]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-2021-011-JG/raw/main/report/SAR-2021-011-JG-v01.pdf
+[sar-2021-011-sap]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-2021-011-JG/raw/main/report/SAP-2021-011-JG-v01.pdf
+
+[sar-2021-012-pdf]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-2021-012-JG/raw/main/report/SAR-2021-012-JG-v01.pdf
+[sar-2021-012-sap]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-2021-012-JG/raw/main/report/SAP-2021-012-JG-v01.pdf
+
+[sar-2021-013-pdf]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-2021-013-VB/raw/main/report/SAR-2021-013-VB-v01.pdf
+[sar-2021-013-sap]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-2021-013-VB/raw/main/report/SAP-2021-013-VB-v01.pdf
+
 [sar-2020-001-md]: https://github.com/philsf-biostat/SAR-2020-001-DM/blob/master/report/SAR-2020-001-DM-v01.md
 [sar-2020-001-pdf]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-2020-001-DM/raw/master/report/SAR-2020-001-DM-v01.pdf
 [sar-2020-001-sap]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-2020-001-DM/raw/master/report/SAP-2020-001-DM-v01.pdf
