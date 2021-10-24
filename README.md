@@ -20,9 +20,8 @@ Relatórios de Análise Estatística de consultorias a partir de 2018.
 <!-- Nesses casos, o link mostra apenas os resultados brutos (tabelas e figuras). -->
 
 <!-- 1. title -->
-<!--     - [[Visualizar Online][SAR-yyy-NNN-XX-md]] -->
-<!--     [[PDF][SAR-yyy-NNN-XX-pdf]] -->
-<!--     [[Plano analítico][SAR-yyy-NNN-XX-sap]] -->
+<!--     [[PDF][SAR-yyyy-NNN-pdf]] -->
+<!--     [[Plano analítico][SAR-yyyy-NNN-sap]] -->
 
 
 ### 2021
