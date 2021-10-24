@@ -20,7 +20,7 @@ Relatórios de Análise Estatística de consultorias a partir de 2018.
 <!-- Nesses casos, o link mostra apenas os resultados brutos (tabelas e figuras). -->
 
 <!-- 1. title -->
-<!--     [[PDF][SAR-yyyy-NNN-pdf]] -->
+<!--     - [[PDF][SAR-yyyy-NNN-pdf]] -->
 <!--     [[Plano analítico][SAR-yyyy-NNN-sap]] -->
 
 
@@ -41,35 +41,35 @@ Relatórios de Análise Estatística de consultorias a partir de 2018.
     [[Plano analítico][SAR-2021-004-sap]]
 
 1. title
-    [[PDF][SAR-2021-006-pdf]]
+    - [[PDF][SAR-2021-006-pdf]]
     [[Plano analítico][SAR-2021-006-sap]]
 
 1. Incidence rates of scorpion accidents in Urban Planning Areas of Americana/SP in 1998-2018
-    [[PDF][SAR-2021-007-pdf]]
+    - [[PDF][SAR-2021-007-pdf]]
     [[Plano analítico][SAR-2021-007-sap]]
 
 1. title
-    [[PDF][SAR-2021-008-pdf]]
+    - [[PDF][SAR-2021-008-pdf]]
     [[Plano analítico][SAR-2021-008-sap]]
 
 1. title
-    [[PDF][SAR-2021-009-pdf]]
+    - [[PDF][SAR-2021-009-pdf]]
     [[Plano analítico][SAR-2021-009-sap]]
 
 1. title
-    [[PDF][SAR-2021-010-pdf]]
+    - [[PDF][SAR-2021-010-pdf]]
     [[Plano analítico][SAR-2021-010-sap]]
 
 1. Clusterização hierárquica para determinação do número ótimo de clusters para classificação de deputados federais como bancada evangélica
-    [[PDF][SAR-2021-011-pdf]]
+    - [[PDF][SAR-2021-011-pdf]]
     [[Plano analítico][SAR-2021-011-sap]]
 
 1. Quantificação do efeito da receita recebida na autodenominação como evangélicos em deputados federais de 2018
-    [[PDF][SAR-2021-012-pdf]]
+    - [[PDF][SAR-2021-012-pdf]]
     [[Plano analítico][SAR-2021-012-sap]]
 
 1. Eficácia da técnica anestésica de bloqueio quadrado lombar na redução da dor pós operatória em colecistectomias videolaparoscópicas
-    [[PDF][SAR-2021-013-pdf]]
+    - [[PDF][SAR-2021-013-pdf]]
     [[Plano analítico][SAR-2021-013-sap]]
 
 ### 2020
