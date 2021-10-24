@@ -40,6 +40,14 @@ Relatórios de Análise Estatística de consultorias a partir de 2018.
     - [[PDF][SAR-2021-004-pdf]]
     [[Plano analítico][SAR-2021-004-sap]]
 
+1. Clusterização hierárquica para determinação do número ótimo de clusters para classificação de deputados federais como bancada evangélica
+    - [[PDF][SAR-2021-011-pdf]]
+    [[Plano analítico][SAR-2021-011-sap]]
+
+1. Quantificação do efeito da receita recebida na autodenominação como evangélicos em deputados federais de 2018
+    - [[PDF][SAR-2021-012-pdf]]
+    [[Plano analítico][SAR-2021-012-sap]]
+
 <!-- 1. title -->
 <!--     - [[PDF][SAR-2021-006-pdf]] -->
 <!--     [[Plano analítico][SAR-2021-006-sap]] -->
@@ -59,14 +67,6 @@ Relatórios de Análise Estatística de consultorias a partir de 2018.
 <!-- 1. title -->
 <!--     - [[PDF][SAR-2021-010-pdf]] -->
 <!--     [[Plano analítico][SAR-2021-010-sap]] -->
-
-1. Clusterização hierárquica para determinação do número ótimo de clusters para classificação de deputados federais como bancada evangélica
-    - [[PDF][SAR-2021-011-pdf]]
-    [[Plano analítico][SAR-2021-011-sap]]
-
-1. Quantificação do efeito da receita recebida na autodenominação como evangélicos em deputados federais de 2018
-    - [[PDF][SAR-2021-012-pdf]]
-    [[Plano analítico][SAR-2021-012-sap]]
 
 <!-- 1. Eficácia da técnica anestésica de bloqueio quadrado lombar na redução da dor pós operatória em colecistectomias videolaparoscópicas -->
 <!--     - [[PDF][SAR-2021-013-pdf]] -->
