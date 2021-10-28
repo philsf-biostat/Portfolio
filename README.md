@@ -40,7 +40,7 @@ Relatórios de Análise Estatística de consultorias a partir de 2018.
     - [[PDF][SAR-2021-004-pdf]]
     [[Plano analítico][SAR-2021-004-sap]]
 
-1. Clusterização hierárquica para determinação do número ótimo de clusters para classificação de deputados federais como bancada evangélica
+1. Clusterização hierárquica para determinação do número ótimo de clusters de deputados federais evangélicos eleitos em 2018
     - [[PDF][SAR-2021-011-pdf]]
     [[Plano analítico][SAR-2021-011-sap]]
 
