@@ -48,6 +48,11 @@ Relatórios de Análise Estatística de consultorias a partir de 2018.
     - [[PDF][SAR-2021-012-pdf]]
     [[Plano analítico][SAR-2021-012-sap]]
 
+1. Equivalence of leg strength clinical measurements after ACLR in non-professional athletes
+    - [[Plano analítico][SAR-2021-015-sap]]
+    <!-- - [[PDF][SAR-2021-015-pdf]] -->
+    <!-- [[Plano analítico][SAR-2021-015-sap]] -->
+
 <!-- 1. title -->
 <!--     - [[PDF][SAR-2021-006-pdf]] -->
 <!--     [[Plano analítico][SAR-2021-006-sap]] -->
@@ -71,6 +76,10 @@ Relatórios de Análise Estatística de consultorias a partir de 2018.
 <!-- 1. Eficácia da técnica anestésica de bloqueio quadrado lombar na redução da dor pós operatória em colecistectomias videolaparoscópicas -->
 <!--     - [[PDF][SAR-2021-013-pdf]] -->
 <!--     [[Plano analítico][SAR-2021-013-sap]] -->
+
+<!-- 1. title -->
+<!--     - [[PDF][SAR-2021-014-pdf]] -->
+<!--     [[Plano analítico][SAR-2021-014-sap]] -->
 
 ### 2020
 
@@ -164,6 +173,12 @@ Relatórios de Análise Estatística de consultorias a partir de 2018.
 
 [sar-2021-013-pdf]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-2021-013-VB/raw/main/report/SAR-2021-013-VB-v01.pdf
 [sar-2021-013-sap]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-2021-013-VB/raw/main/report/SAP-2021-013-VB-v01.pdf
+
+[sar-2021-014-pdf]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-2021-014-FP/raw/main/report/SAR-2021-014-FP-v01.pdf
+[sar-2021-014-sap]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-2021-014-FP/raw/main/report/SAP-2021-014-FP-v01.pdf
+
+[sar-2021-015-pdf]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-2021-015-LJ/raw/main/report/SAR-2021-015-LJ-v01.pdf
+[sar-2021-015-sap]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-2021-015-LJ/raw/main/report/SAP-2021-015-LJ-v01.pdf
 
 [sar-2020-001-md]: https://github.com/philsf-biostat/SAR-2020-001-DM/blob/master/report/SAR-2020-001-DM-v01.md
 [sar-2020-001-pdf]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-2020-001-DM/raw/master/report/SAR-2020-001-DM-v01.pdf
