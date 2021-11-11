@@ -53,6 +53,16 @@ Relatórios de Análise Estatística de consultorias a partir de 2018.
     <!-- - [[PDF][SAR-2021-015-pdf]] -->
     <!-- [[Plano analítico][SAR-2021-015-sap]] -->
 
+1. Diferenças nos ângulos espino-pélvicos em pacientes com artrose
+    - [[Plano analítico][SAR-2021-014-sap]]
+    <!-- - [[PDF][SAR-2021-014-pdf]] -->
+    <!-- [[Plano analítico][SAR-2021-014-sap]] -->
+
+1. Prognóstico de sobrevida em cativeiro de Tityus bahiensis capturados em Americana/SP
+	- [[Plano analítico][SAR-2021-008-sap]]
+    <!-- - [[PDF][SAR-2021-008-pdf]] -->
+    <!-- [[Plano analítico][SAR-2021-008-sap]] -->
+
 <!-- 1. title -->
 <!--     - [[PDF][SAR-2021-006-pdf]] -->
 <!--     [[Plano analítico][SAR-2021-006-sap]] -->
@@ -60,10 +70,6 @@ Relatórios de Análise Estatística de consultorias a partir de 2018.
 <!-- 1. Incidence rates of scorpion accidents in Urban Planning Areas of Americana/SP in 1998-2018 -->
 <!--     - [[PDF][SAR-2021-007-pdf]] -->
 <!--     [[Plano analítico][SAR-2021-007-sap]] -->
-
-<!-- 1. title -->
-<!--     - [[PDF][SAR-2021-008-pdf]] -->
-<!--     [[Plano analítico][SAR-2021-008-sap]] -->
 
 <!-- 1. title -->
 <!--     - [[PDF][SAR-2021-009-pdf]] -->
@@ -76,10 +82,6 @@ Relatórios de Análise Estatística de consultorias a partir de 2018.
 <!-- 1. Eficácia da técnica anestésica de bloqueio quadrado lombar na redução da dor pós operatória em colecistectomias videolaparoscópicas -->
 <!--     - [[PDF][SAR-2021-013-pdf]] -->
 <!--     [[Plano analítico][SAR-2021-013-sap]] -->
-
-<!-- 1. title -->
-<!--     - [[PDF][SAR-2021-014-pdf]] -->
-<!--     [[Plano analítico][SAR-2021-014-sap]] -->
 
 ### 2020
 
