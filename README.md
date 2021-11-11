@@ -23,6 +23,8 @@ Relatórios de Análise Estatística de consultorias a partir de 2018.
 <!--     - [[PDF][SAR-yyyy-NNN-pdf]] -->
 <!--     [[Plano analítico][SAR-yyyy-NNN-sap]] -->
 
+[sar-YYYY-NNN-pdf]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-YYYY-NNN-XX/raw/main/report/SAR-YYYY-NNN-XX-v01.pdf
+[sar-YYYY-NNN-sap]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-YYYY-NNN-XX/raw/main/report/SAP-YYYY-NNN-XX-v02.pdf
 
 ### 2021
 
@@ -40,6 +42,11 @@ Relatórios de Análise Estatística de consultorias a partir de 2018.
     - [[PDF][SAR-2021-004-pdf]]
     [[Plano analítico][SAR-2021-004-sap]]
 
+1. Prognóstico de sobrevida em cativeiro de Tityus bahiensis capturados em Americana/SP
+	- [[Plano analítico][SAR-2021-008-sap]]
+    <!-- - [[PDF][SAR-2021-008-pdf]] -->
+    <!-- [[Plano analítico][SAR-2021-008-sap]] -->
+
 1. Clusterização hierárquica para determinação do número ótimo de clusters de deputados federais evangélicos eleitos em 2018
     - [[PDF][SAR-2021-011-pdf]]
     [[Plano analítico][SAR-2021-011-sap]]
@@ -48,20 +55,15 @@ Relatórios de Análise Estatística de consultorias a partir de 2018.
     - [[PDF][SAR-2021-012-pdf]]
     [[Plano analítico][SAR-2021-012-sap]]
 
-1. Equivalence of leg strength clinical measurements after ACLR in non-professional athletes
-    - [[Plano analítico][SAR-2021-015-sap]]
-    <!-- - [[PDF][SAR-2021-015-pdf]] -->
-    <!-- [[Plano analítico][SAR-2021-015-sap]] -->
-
 1. Diferenças nos ângulos espino-pélvicos em pacientes com artrose
     - [[Plano analítico][SAR-2021-014-sap]]
     <!-- - [[PDF][SAR-2021-014-pdf]] -->
     <!-- [[Plano analítico][SAR-2021-014-sap]] -->
 
-1. Prognóstico de sobrevida em cativeiro de Tityus bahiensis capturados em Americana/SP
-	- [[Plano analítico][SAR-2021-008-sap]]
-    <!-- - [[PDF][SAR-2021-008-pdf]] -->
-    <!-- [[Plano analítico][SAR-2021-008-sap]] -->
+1. Equivalence of leg strength clinical measurements after ACLR in non-professional athletes
+    - [[Plano analítico][SAR-2021-015-sap]]
+    <!-- - [[PDF][SAR-2021-015-pdf]] -->
+    <!-- [[Plano analítico][SAR-2021-015-sap]] -->
 
 <!-- 1. title -->
 <!--     - [[PDF][SAR-2021-006-pdf]] -->
@@ -82,6 +84,10 @@ Relatórios de Análise Estatística de consultorias a partir de 2018.
 <!-- 1. Eficácia da técnica anestésica de bloqueio quadrado lombar na redução da dor pós operatória em colecistectomias videolaparoscópicas -->
 <!--     - [[PDF][SAR-2021-013-pdf]] -->
 <!--     [[Plano analítico][SAR-2021-013-sap]] -->
+
+<!-- 1. title -->
+<!--     - [[PDF][SAR-2021-016-pdf]] -->
+<!--     [[Plano analítico][SAR-2021-016-sap]] -->
 
 ### 2020
 
@@ -181,6 +187,9 @@ Relatórios de Análise Estatística de consultorias a partir de 2018.
 
 [sar-2021-015-pdf]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-2021-015-LJ/raw/main/report/SAR-2021-015-LJ-v01.pdf
 [sar-2021-015-sap]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-2021-015-LJ/raw/main/report/SAP-2021-015-LJ-v02.pdf
+
+[sar-2021-016-pdf]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-2021-016-MCL/raw/main/report/SAR-2021-016-MCL-v01.pdf
+[sar-2021-016-sap]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-2021-016-MCL/raw/main/report/SAP-2021-016-MCL-v02.pdf
 
 [sar-2020-001-md]: https://github.com/philsf-biostat/SAR-2020-001-DM/blob/master/report/SAR-2020-001-DM-v01.md
 [sar-2020-001-pdf]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-2020-001-DM/raw/master/report/SAR-2020-001-DM-v01.pdf
