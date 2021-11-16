@@ -54,10 +54,9 @@ Relatórios de Análise Estatística de consultorias a partir de 2018.
     - [[PDF][SAR-2021-012-pdf]]
     [[Plano analítico][SAR-2021-012-sap]]
 
-1. Diferenças nos ângulos espino-pélvicos em pacientes com artrose
-    - [[Plano analítico][SAR-2021-014-sap]]
-    <!-- - [[PDF][SAR-2021-014-pdf]] -->
-    <!-- [[Plano analítico][SAR-2021-014-sap]] -->
+1. Associação entre artrose e alteração de ângulos espino-pélvicos em pacientes com impacto femoroacetabular
+    - [[PDF][SAR-2021-014-pdf]]
+    [[Plano analítico][SAR-2021-014-sap]]
 
 1. Equivalence of leg strength clinical measurements after ACLR in non-professional athletes
     - [[Plano analítico][SAR-2021-015-sap]]
