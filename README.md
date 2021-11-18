@@ -23,8 +23,8 @@ Relatórios de Análise Estatística de consultorias a partir de 2018.
 <!--     - [[PDF][SAR-yyyy-NNN-pdf]] -->
 <!--     [[Plano analítico][SAR-yyyy-NNN-sap]] -->
 
-[sar-YYYY-NNN-pdf]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-YYYY-NNN-XX/raw/main/report/SAR-YYYY-NNN-XX-v01.pdf
-[sar-YYYY-NNN-sap]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-YYYY-NNN-XX/raw/main/report/SAP-YYYY-NNN-XX-v02.pdf
+[sar-yyyy-NNN-pdf]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-yyyy-NNN-XX/raw/main/report/SAR-yyyy-NNN-XX-v01.pdf
+[sar-yyyy-NNN-sap]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-yyyy-NNN-XX/raw/main/report/SAP-yyyy-NNN-XX-v01.pdf
 
 ### 2021
 
@@ -62,6 +62,10 @@ Relatórios de Análise Estatística de consultorias a partir de 2018.
     - [[Plano analítico][SAR-2021-015-sap]]
     <!-- - [[PDF][SAR-2021-015-pdf]] -->
     <!-- [[Plano analítico][SAR-2021-015-sap]] -->
+
+1. Otimização de hiperparâmetros de clusterização hierárquica para identificação de deputados evangélicos de corporações pentecostais eleitos em 2018
+    - [[PDF][SAR-2021-017-pdf]]
+    [[Plano analítico][SAR-2021-017-sap]]
 
 <!-- 1. title -->
 <!--     - [[PDF][SAR-2021-006-pdf]] -->
@@ -187,7 +191,10 @@ Relatórios de Análise Estatística de consultorias a partir de 2018.
 [sar-2021-015-sap]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-2021-015-LJ/raw/main/report/SAP-2021-015-LJ-v02.pdf
 
 [sar-2021-016-pdf]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-2021-016-MCL/raw/main/report/SAR-2021-016-MCL-v01.pdf
-[sar-2021-016-sap]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-2021-016-MCL/raw/main/report/SAP-2021-016-MCL-v02.pdf
+[sar-2021-016-sap]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-2021-016-MCL/raw/main/report/SAP-2021-016-MCL-v01.pdf
+
+[sar-2021-017-pdf]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-2021-017-JG/raw/main/report/SAR-2021-017-JG-v01.pdf
+[sar-2021-017-sap]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-2021-017-JG/raw/main/report/SAP-2021-017-JG-v01.pdf
 
 [sar-2020-001-md]: https://github.com/philsf-biostat/SAR-2020-001-DM/blob/master/report/SAR-2020-001-DM-v01.md
 [sar-2020-001-pdf]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-2020-001-DM/raw/master/report/SAR-2020-001-DM-v01.pdf
