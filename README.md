@@ -59,9 +59,6 @@ Relatórios de Análise Estatística de consultorias a partir de 2018.
     [[Plano analítico][SAR-2021-014-sap]]
 
 1. Equivalence of leg strength clinical measurements after ACLR in non-professional athletes
-    - [[Plano analítico][SAR-2021-015-sap]]
-    <!-- - [[PDF][SAR-2021-015-pdf]] -->
-    <!-- [[Plano analítico][SAR-2021-015-sap]] -->
 
 1. Otimização de hiperparâmetros de clusterização hierárquica para identificação de deputados evangélicos de corporações pentecostais eleitos em 2018
     - [[PDF][SAR-2021-017-pdf]]
