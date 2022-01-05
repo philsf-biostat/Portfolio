@@ -59,10 +59,36 @@ Relatórios de Análise Estatística de consultorias a partir de 2018.
     [[Plano analítico][SAR-2021-014-sap]]
 
 1. Analytical Plan for Equivalence of leg strength clinical measurements after ACLR in non-professional athletes
+<!--     - [[PDF][SAR-2021-015-pdf]] -->
+<!--     [[Plano analítico][SAR-2021-015-sap]] -->
 
 1. Otimização de hiperparâmetros de clusterização hierárquica para identificação de deputados evangélicos de corporações pentecostais eleitos em 2018
     - [[PDF][SAR-2021-017-pdf]]
     [[Plano analítico][SAR-2021-017-sap]]
+
+1. Equivalence of quadriceps strength measurements from a linear encoder 12 months after ACLR in non-professional athletes using dynamometer as reference
+<!--     - [[PDF][SAR-2021-019-pdf]] -->
+<!--     [[Plano analítico][SAR-2021-019-sap]] -->
+
+1. Sample size for the verification of possible Interleukin-6 circadian rhythm in Alpha-1 Antitrypsin deficient patients
+<!--     - [[PDF][SAR-2021-020-pdf]] -->
+<!--     [[Plano analítico][SAR-2021-020-sap]] -->
+
+1. Impact of government measures to prevent school evasion on wages in the Netherlands
+<!--     - [[PDF][SAR-2021-021-pdf]] -->
+<!--     [[Plano analítico][SAR-2021-021-sap]] -->
+
+1. Multiple imputation of school evasion variables with large amounts of missing values
+<!--     - [[PDF][SAR-2021-022-pdf]] -->
+<!--     [[Plano analítico][SAR-2021-022-sap]] -->
+
+<!-- 1. title -->
+<!--     - [[PDF][SAR-2021-023-pdf]] -->
+<!--     [[Plano analítico][SAR-2021-023-sap]] -->
+
+<!-- 1. title -->
+<!--     - [[PDF][SAR-2021-024-pdf]] -->
+<!--     [[Plano analítico][SAR-2021-024-sap]] -->
 
 <!-- 1. title -->
 <!--     - [[PDF][SAR-2021-006-pdf]] -->
@@ -84,7 +110,7 @@ Relatórios de Análise Estatística de consultorias a partir de 2018.
 <!--     - [[PDF][SAR-2021-013-pdf]] -->
 <!--     [[Plano analítico][SAR-2021-013-sap]] -->
 
-<!-- 1. title -->
+<!-- 1. Concordância entre métodos de identificação de cepas de tuberculose resistentes a antibióticos -->
 <!--     - [[PDF][SAR-2021-016-pdf]] -->
 <!--     [[Plano analítico][SAR-2021-016-sap]] -->
 
@@ -192,6 +218,24 @@ Relatórios de Análise Estatística de consultorias a partir de 2018.
 
 [sar-2021-017-pdf]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-2021-017-JG/raw/main/report/SAR-2021-017-JG-v01.pdf
 [sar-2021-017-sap]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-2021-017-JG/raw/main/report/SAP-2021-017-JG-v01.pdf
+
+[sar-2021-019-pdf]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-2021-019-LJ/raw/main/report/SAR-2021-019-LJ-v02.pdf
+[sar-2021-019-sap]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-2021-019-LJ/raw/main/report/SAP-2021-019-LJ-v01.pdf
+
+[sar-2021-020-pdf]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-2021-020-LH/raw/main/report/SAR-2021-020-LH-v01.pdf
+[sar-2021-020-sap]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-2021-020-LH/raw/main/report/SAP-2021-020-LH-v01.pdf
+
+[sar-2021-021-pdf]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-2021-021-BN/raw/main/report/SAR-2021-021-BN-v01.pdf
+[sar-2021-021-sap]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-2021-021-BN/raw/main/report/SAP-2021-021-BN-v01.pdf
+
+[sar-2021-022-pdf]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-2021-022-BN/raw/main/report/SAR-2021-022-BN-v01.pdf
+[sar-2021-022-sap]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-2021-022-BN/raw/main/report/SAP-2021-022-BN-v01.pdf
+
+[sar-2021-023-pdf]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-2021-023-LP/raw/main/report/SAR-2021-023-LP-v01.pdf
+[sar-2021-023-sap]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-2021-023-LP/raw/main/report/SAP-2021-023-LP-v01.pdf
+
+[sar-2021-024-pdf]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-2021-024-DS/raw/main/report/SAR-2021-024-DS-v01.pdf
+[sar-2021-024-sap]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-2021-024-DS/raw/main/report/SAP-2021-024-DS-v01.pdf
 
 [sar-2020-001-md]: https://github.com/philsf-biostat/SAR-2020-001-DM/blob/master/report/SAR-2020-001-DM-v01.md
 [sar-2020-001-pdf]: https://docs.google.com/viewer?url=https://github.com/philsf-biostat/SAR-2020-001-DM/raw/master/report/SAR-2020-001-DM-v01.pdf
