@@ -116,28 +116,28 @@ Relatórios de Análise Estatística de consultorias a partir de 2018.
 
 ### 2020
 
-1. Incidência de correção em tratamento conservador de Camptodacilia: coorte retrospectiva
-    - [[Protocolo do estudo][SAR-2020-004-PROT]]
-    [[Código][SAR-2020-004-repo]]
-
-1. Análise de dados para Caroline Wanjiru (Ensaio biológico acadêmico, 2020)
-    - [[Código][SAR-2020-003-repo]]
-
-1. Preparo de base de dados para estudos de Saúde Mental em Profissionais de Saúde atuando no combate a COVID19 (ELSA/FIOCRUZ, 2020)
-    - [[Código][dataclean-SMPS-covid19]]
-
 1. Análise estatística de estudo de carpectomias comparando vias de acesso dorsal e volar
     - [[PDF][SAR-2020-001-PDF]]
     [[Plano analítico][SAR-2020-001-SAP]]
 
+1. Análise de dados para Caroline Wanjiru (Ensaio biológico acadêmico, 2020)
+    - [[Código][SAR-2020-003-repo]]
+
+1. Incidência de correção em tratamento conservador de Camptodacilia: coorte retrospectiva
+    - [[Protocolo do estudo][SAR-2020-004-PROT]]
+    [[Código][SAR-2020-004-repo]]
+
+1. Preparo de base de dados para estudos de Saúde Mental em Profissionais de Saúde atuando no combate a COVID19 (ELSA/FIOCRUZ, 2020)
+    - [[Código][dataclean-SMPS-covid19]]
+
 
 ### 2019
 
-1. Análise epidemiológica de pacientes com vitiligo com os instrumentos de Qualidade de Vida DLQI e VitiQoL
-    - [[PDF][SAR-2019-002-pdf]]
-
 1. Análise epidemiológica de pacientes com pubalgia atlética no Brasil
     - [[PDF][SAR-2019-001-pdf]]
+
+1. Análise epidemiológica de pacientes com vitiligo com os instrumentos de Qualidade de Vida DLQI e VitiQoL
+    - [[PDF][SAR-2019-002-pdf]]
 
 1. Eficácia do Ácido tranexâmico na redução de edema em cirurgias plásticas de face: projeto piloto
     - [[PDF][SAR-2019-003-pdf]]
@@ -151,6 +151,9 @@ Relatórios de Análise Estatística de consultorias a partir de 2018.
 1. Avaliação do diagnóstico por RM comparada à artroscopia em lesões de menisco
     - [[PDF][SAR-2018-001-PDF]]
 
+1. Análise exploratória de dados de pacientes com pubalgia atlética no Brasil
+      - [[PDF][SAR-2018-003-PDF]]
+
 1. Prevalência de disfagia e disfonia no pós-operatório tardio de Artrodese Cervical Anterior
     - [[PDF][SAR-2018-004-PDF]]
 
@@ -159,9 +162,6 @@ Relatórios de Análise Estatística de consultorias a partir de 2018.
 
 1. Análise de dados para Jéssica Malheiros (Mestrado Profissional Tecnologia em Imunobiológicos/FIOCRUZ, 2018b)
     - [[Código][SAR-2018-006-repo]]
-
-1. Análise exploratória de dados de pacientes com pubalgia atlética no Brasil
-      - [[PDF][SAR-2018-003-PDF]]
 
 ## Consultorias anteriores
 
